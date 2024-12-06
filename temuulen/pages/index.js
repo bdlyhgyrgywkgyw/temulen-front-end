@@ -11,7 +11,7 @@ export default function Home() {
         height={50}
         alt="Picture of the author"
       />
-      <h1 className="text-2xl">212 555 6342</h1>
+      <h1 className="text-2xl">212 555 63421</h1>
     </div>
     
   );
